@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(218, 213, 213);
+}
+.weather{
+    width: 350px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 80px;
+    background-color: white;
+}
+.weather input, button, p{
+    font-size: 20px;
+    margin: 5px 5px
+}
+.p2, .p3, .p4{
+    display: none;
+}
+.error{
+    width: 200px;
+    background-color: red;
+    color: white;
+    padding-left: 20px;
+}
